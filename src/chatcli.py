@@ -7,7 +7,7 @@ import sys
 # TARGET_IP = "127.0.0.1"
 # TARGET_PORT = 1111
 
-TARGET_IP = "172.16.16.101"
+TARGET_IP = "127.0.0.1"
 TARGET_PORT = 45000
 
 print('using ' + TARGET_IP + str(TARGET_PORT))
